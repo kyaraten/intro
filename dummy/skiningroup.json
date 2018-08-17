@@ -1,0 +1,410 @@
+{
+  "code": 0,
+  "message": "success",
+  "innerContents": [
+    {
+      "skinNo": 3336,
+      "skinGroupNo": 124,
+      "weatherNo": 11,
+      "price": 0,
+      "name": "팔복이_흐림_낮",
+      "userCode": "4dcee7f85df40fc71dcad450a6cbc55190e1253b",
+      "userId": "ozak_8b",
+      "level": 5,
+      "viewCount": 80,
+      "likeCount": 19,
+      "commentCount": 0,
+      "downloadCount": 57,
+      "images": [
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/8cc8c295-d5a5-4b04-82e5-24cf51cfffc2.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/47ee4993-b79f-460a-ab1f-194cb83cfdfe.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/28a65430-ac68-4751-85c7-6b585156cd26.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/f8a982a8-2693-40bf-bb91-164baaa71064.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/be53deb1-f7ea-40d7-952e-8f89816521c4.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/dea175d6-a965-401b-8372-4904c05e6124.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/c3078475-58dc-4f62-83a9-702bc3541fe1.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/befcd001-5457-4584-ab0e-2717b4edfb02.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/47789bb0-e054-4a59-929e-5b700fe9e4f3.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/b076e928-8c7e-417e-8f95-bf203452401b.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/25b6de4c-67d3-4687-8f56-fee960fe0f85.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/3336/11912cb9-ed73-457e-b32f-5b760028f1f7.png",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "gif": false,
+      "artist": false,
+      "skinCategories": [
+        {
+          "categoryNo": 326,
+          "categoryName": "토끼"
+        },
+        {
+          "categoryNo": 394,
+          "categoryName": "웹툰"
+        }
+      ],
+      "origin": ""
+    },
+    {
+      "skinNo": 2672,
+      "skinGroupNo": 124,
+      "weatherNo": 61,
+      "price": 0,
+      "name": "팔복이_번개",
+      "userCode": "4dcee7f85df40fc71dcad450a6cbc55190e1253b",
+      "userId": "ozak_8b",
+      "level": 5,
+      "viewCount": 132,
+      "likeCount": 26,
+      "commentCount": 1,
+      "downloadCount": 63,
+      "images": [
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2672/df269ee0-ce20-431c-90d0-cbdc1735125e.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2672/4b416c20-db74-4121-b425-77f408c6ab0d.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2672/171ef568-7f81-43c4-924f-557fe178f498.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2672/c47517ae-2e05-460f-8ac2-dc28664aa11d.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2672/ad3d1a5f-3b92-438e-a709-0c514b210bab.png",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "gif": false,
+      "artist": false,
+      "skinCategories": [
+        {
+          "categoryNo": 326,
+          "categoryName": "토끼"
+        },
+        {
+          "categoryNo": 394,
+          "categoryName": "웹툰"
+        }
+      ],
+      "origin": ""
+    },
+    {
+      "skinNo": 2670,
+      "skinGroupNo": 124,
+      "weatherNo": 1,
+      "price": 0,
+      "name": "팔복이_맑음_낮",
+      "userCode": "4dcee7f85df40fc71dcad450a6cbc55190e1253b",
+      "userId": "ozak_8b",
+      "level": 5,
+      "viewCount": 78,
+      "likeCount": 11,
+      "commentCount": 0,
+      "downloadCount": 51,
+      "images": [
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/7ef51e26-33b2-4797-8a43-da068c333971.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/82992d2e-6e3f-4122-b50c-25a2cb6977a1.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/a9b45a53-406c-4ff9-80b1-b22dff6d4c89.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/c109322c-59bc-453a-9e94-460c57a87e68.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/41c08d55-7582-4be1-b947-5f53fd9e665f.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/8cc11167-0502-4e8d-9d5e-9768b1424275.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/529c88f6-5ef3-4c82-8491-469a755056f0.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/2670/896f4590-e44e-4284-9e50-49e2a2183034.png",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "gif": false,
+      "artist": false,
+      "skinCategories": [
+        {
+          "categoryNo": 326,
+          "categoryName": "토끼"
+        },
+        {
+          "categoryNo": 394,
+          "categoryName": "웹툰"
+        }
+      ],
+      "origin": ""
+    },
+    {
+      "skinNo": 715,
+      "skinGroupNo": 124,
+      "weatherNo": 2,
+      "price": 0,
+      "name": "팔복이_맑음_밤",
+      "userCode": "4dcee7f85df40fc71dcad450a6cbc55190e1253b",
+      "userId": "ozak_8b",
+      "level": 5,
+      "viewCount": 448,
+      "likeCount": 16,
+      "commentCount": 2,
+      "downloadCount": 58,
+      "images": [
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/715/79417e54-4f5b-4f61-99e3-959906ce6970.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/715/069a6276-f1d1-42e3-a734-47cf546f6dce.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/715/ff62e0df-cc47-40de-a98d-792229531768.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/715/a870b641-0e8a-42f4-b564-f35b9129eee6.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/715/c11acd96-c086-4ffc-8363-d56a199f3bed.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/715/e3e4ce29-ac1a-4054-84c3-c1ddc466a2c1.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/715/630d87a1-f68b-4654-b65e-7792e354be23.png",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "gif": false,
+      "artist": false,
+      "skinCategories": [
+        {
+          "categoryNo": 326,
+          "categoryName": "토끼"
+        },
+        {
+          "categoryNo": 394,
+          "categoryName": "웹툰"
+        }
+      ],
+      "origin": ""
+    },
+    {
+      "skinNo": 398,
+      "skinGroupNo": 124,
+      "weatherNo": 21,
+      "price": 0,
+      "name": "팔복이_비_낮",
+      "userCode": "4dcee7f85df40fc71dcad450a6cbc55190e1253b",
+      "userId": "ozak_8b",
+      "level": 5,
+      "viewCount": 647,
+      "likeCount": 21,
+      "commentCount": 1,
+      "downloadCount": 60,
+      "images": [
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/62526f22-21f6-4265-bd3b-af6862b16e42.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/5e076b3b-79d2-441c-839b-558caab990f0.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/7889ca90-980e-41a4-8836-73184e0295e2.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/0c2ac734-7116-46ab-b127-2ab76a752290.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/8f956c9c-13a0-4173-9c33-57fef6394ee8.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/29a42dbc-4e6c-4419-9cd2-56cb469c11e4.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/04fcf46d-efd1-4aaa-9183-ccf10265b983.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/e2b854c3-6d53-4ac6-90f7-da42dffd77e2.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/415b0a9e-9f2e-4570-9626-5207ddb3f8d5.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/935c5cfa-f477-4933-9e7d-9cbb29dccab5.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/47be5fd4-ae3b-4864-9859-df48ffe3314e.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/f8960a8f-4260-46e5-8f8a-1cd9863edd33.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/359864f5-c847-4456-82ac-e68758cee752.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/bd13cf77-ee0f-4e69-83b2-1cc995502f5d.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/55a55116-86eb-4611-ade0-c10b7ad0149f.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/139490f0-9040-4728-9cbc-430d5b1d6933.png",
+          "width": 400,
+          "height": 400
+        },
+        {
+          "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/skin/398/a5159da3-f8b5-45ab-97d1-fd80e4ee1f66.png",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "gif": false,
+      "artist": false,
+      "skinCategories": [
+        {
+          "categoryNo": 326,
+          "categoryName": "토끼"
+        },
+        {
+          "categoryNo": 394,
+          "categoryName": "웹툰"
+        }
+      ],
+      "origin": ""
+    }
+  ],
+  "title": "팔복이",
+  "banner": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/kyaraten-skin/admin/9f1d49c8-12b4-405e-a02c-2d88d34d1c46.png",
+  "userCode": "4dcee7f85df40fc71dcad450a6cbc55190e1253b",
+  "userId": "ozak_8b",
+  "level": 5,
+  "price": 0,
+  "totalCommentCount": 4,
+  "totalLikeCount": 93,
+  "totalViewCount": 1385,
+  "totalDownloadCount": 289,
+  "artist": false,
+  "groupLikeCount": 289,
+  "groupLike": false
+}
